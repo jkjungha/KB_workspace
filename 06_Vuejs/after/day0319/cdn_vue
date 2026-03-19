@@ -1,0 +1,27 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    <!-- cdn 방식을 통해서 뷰 라이브러리를 불러온다. 불러오면 Vue 객체를 사용할 수 있다. -->
+    <script src="https://unpkg.com/vue@3/dist/vue.global.js"></script>
+    <!-- 비구조할당: 배열이나 객체 속성을 개별 변수에 값을 담을 수 있는 자바스크립트 표현식 -->
+    <div id="app">{{ message }}</div>
+  </body>
+  <script>
+    const { createApp } = Vue;
+    //createApp 함수를 호출하면 어플리케이션 인스턴스를 생성할 수 있다.
+    createApp({
+      data() {
+        return {
+          message: 'Hello Vuejs!',
+        };
+      },
+    }).mount('#app');
+  </script>
+</html>
+
+<!-- CreateApp 함수로 생성되는 것을 애플리케이션 인스턴스, 앱 인스턴스, 뷰 앱 인스턴스 -->

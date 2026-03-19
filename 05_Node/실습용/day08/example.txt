@@ -1,0 +1,2 @@
+Node.js is an open-source, cross-platform Javascript runtime environment.
+Node.js는 Chrome v8 Javascript 엔진으로 빌드된 Javascript 런타임입니다.
