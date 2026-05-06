@@ -1,0 +1,28 @@
+package student.ch04_control;
+
+import java.util.Scanner;
+
+/*
+문제 9. if문
+정수 num이 짝수이면 "짝수", 홀수이면 "홀수"를 출력하세요.
+현재 num 값은 17입니다.
+
+출력 결과:
+홀수
+*/
+public class Q01_OddEven {
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+//        int num = 17;
+        System.out.print("숫자 입력 : ");
+        int num = sc.nextInt();
+       // num = Integer.parseInt(sc.nextLine());
+
+        // TODO: if문을 사용하여 짝수/홀수를 출력하세요.
+        if (num % 2 == 0) {
+            System.out.println("짝수");
+        } else {
+            System.out.println("홀수");
+        }
+    }
+}

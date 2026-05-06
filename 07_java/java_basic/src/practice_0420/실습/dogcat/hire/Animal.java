@@ -1,0 +1,7 @@
+package practice_0420.실습.dogcat.hire;
+
+public class Animal {
+    public void eat(){
+        System.out.println("동물은 모두 먹어야 한다");
+    }
+}

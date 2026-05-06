@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a7077dc5-ee0c-4471-9ce0-fc841d121a43" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/java_basic/src/practice_0506/실습/io/inputstream/ByteArrayInputStream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_basic/src/practice_0506/실습/io/inputstream/ByteArrayOutputStream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_basic/src/practice_0506/실습/io/inputstream/ReadEx01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_basic/src/practice_0506/실습/io/inputstream/WriterEx01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_basic/src/practice_0506/실습/io/reader/ReaderEx01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_basic/src/practice_0506/실습/io/writer/WriterEx01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_basic/src/practice_0506/실습/temp/io/p01/MainTodo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_basic/src/practice_0506/실습/temp/io/p02/MainTodo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_basic/src/practice_0506/실습/temp/io/p03/MainTodo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_basic/src/practice_0506/실습/temp/io/p04/MainTodo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_basic/src/practice_0506/실습/temp/io/p05/MainTodo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_basic/src/practice_0506/실습/temp/io/p06/MainTodo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_basic/src/practice_0506/실습/temp/io/p07/MainTodo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_basic/src/practice_0506/실습/temp/io/p08/MainTodo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_basic/src/practice_0506/실습/temp/io/p09/MainTodo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_basic/src/practice_0506/실습/temp/io/p10/MainTodo.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "jkjungha"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/jkjungha/KB_workspace1.git",
+    "accountId": "c9f2c957-b97a-496e-93db-224bdf33cba7"
+  }
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 1,
+  "fromUser": false
+}]]></component>
+  <component name="ProjectId" id="3DM4FSwLFR7nuA3IgjA6Adbf5Mr" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/junghakim/Desktop/Clone_KB_Workspace/KB_workspace1/07_java",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a7077dc5-ee0c-4471-9ce0-fc841d121a43" name="Changes" comment="" />
+      <created>1778078501959</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1778078501959</updated>
+      <workItem from="1778078504002" duration="423000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

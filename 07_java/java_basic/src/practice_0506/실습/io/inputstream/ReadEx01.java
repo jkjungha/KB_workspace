@@ -1,0 +1,29 @@
+package practice_0506.실습.io.inputstream;
+
+import java.io.FileInputStream;
+import java.io.FileNotFoundException;
+import java.io.IOException;
+import java.io.InputStream;
+
+public class ReadEx01 {
+    public static void main(String[] args) {
+        try {
+            InputStream is = new FileInputStream("/Users/junghakim/Desktop/test.txt");
+
+            while(true){
+                int data = is.read();
+                if(data == -1){
+                    break;
+                }
+                System.out.println(data);
+            }
+        } catch (FileNotFoundException e) {
+            throw new RuntimeException(e);
+        }catch (IOException e){
+            throw new RuntimeException(e);
+        }catch (Exception e){
+            throw new RuntimeException(e);
+        }
+
+    }
+}
