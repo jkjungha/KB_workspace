@@ -18,6 +18,7 @@
       <change afterPath="$PROJECT_DIR$/07_java/java_basic/src/practice_0506/실습/temp/io/p08/MainTodo.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/07_java/java_basic/src/practice_0506/실습/temp/io/p09/MainTodo.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/07_java/java_basic/src/practice_0506/실습/temp/io/p10/MainTodo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/07_java/README.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/07_java/java_basic/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/07_java/java_basic/java_basic.iml" beforeDir="false" />
@@ -40,20 +41,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.ByteArrayInputStream.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
-    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/junghakim/Desktop/Clone_KB_Workspace/KB_workspace&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.ByteArrayInputStream.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/junghakim/Desktop/Clone_KB_Workspace/KB_workspace",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
@@ -80,6 +82,7 @@
       <option name="presentableId" value="Default" />
       <updated>1778079008000</updated>
       <workItem from="1778079009127" duration="1096000" />
+      <workItem from="1778113256618" duration="725000" />
     </task>
     <servers />
   </component>
