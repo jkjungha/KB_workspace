@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7e78dfd6-9f0c-4bce-a2ac-013f3682fccc" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/07_java/java_basic/src/practice_0506/실습/io/inputstream/ByteArrayInputStream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07_java/java_basic/src/practice_0506/실습/io/inputstream/ByteArrayOutputStream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07_java/java_basic/src/practice_0506/실습/io/inputstream/ReadEx01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07_java/java_basic/src/practice_0506/실습/io/inputstream/WriterEx01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07_java/java_basic/src/practice_0506/실습/io/reader/ReaderEx01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07_java/java_basic/src/practice_0506/실습/io/writer/WriterEx01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07_java/java_basic/src/practice_0506/실습/temp/io/p01/MainTodo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07_java/java_basic/src/practice_0506/실습/temp/io/p02/MainTodo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07_java/java_basic/src/practice_0506/실습/temp/io/p03/MainTodo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07_java/java_basic/src/practice_0506/실습/temp/io/p04/MainTodo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07_java/java_basic/src/practice_0506/실습/temp/io/p05/MainTodo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07_java/java_basic/src/practice_0506/실습/temp/io/p06/MainTodo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07_java/java_basic/src/practice_0506/실습/temp/io/p07/MainTodo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07_java/java_basic/src/practice_0506/실습/temp/io/p08/MainTodo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07_java/java_basic/src/practice_0506/실습/temp/io/p09/MainTodo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07_java/java_basic/src/practice_0506/실습/temp/io/p10/MainTodo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07_java/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/07_java/java_basic/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/07_java/java_basic/java_basic.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/07_java/java_basic/src/java_basic.iml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/07_java" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3DM5HC5AejPaWMx8TzkjCEgdo3F" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.ByteArrayInputStream.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/junghakim/Desktop/Clone_KB_Workspace/KB_workspace&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="KB_workspace1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="KB_workspace1" />
+      <option name="filePath" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7e78dfd6-9f0c-4bce-a2ac-013f3682fccc" name="Changes" comment="" />
+      <created>1778079008000</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1778079008000</updated>
+      <workItem from="1778079009127" duration="1096000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
