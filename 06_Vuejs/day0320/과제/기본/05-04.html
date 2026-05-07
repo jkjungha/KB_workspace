@@ -1,0 +1,28 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    <div id="app">
+      <input
+        type="text"
+        v-bind:value="name"
+        v-on:input="(e)=> this.name = e.target.value"
+      />
+      <br />
+      이름: <span>{{name}}</span>
+    </div>
+    <script src="https://unpkg.com/vue"></script>
+    <script type="text/javascript">
+      let vm = Vue.createApp({
+        name: 'App',
+        data() {
+          return { name: '' };
+        },
+      }).mount('#app');
+    </script>
+  </body>
+</html>

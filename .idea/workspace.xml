@@ -30,7 +30,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/07_java" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3,
@@ -82,7 +82,7 @@
       <option name="presentableId" value="Default" />
       <updated>1778079008000</updated>
       <workItem from="1778079009127" duration="1096000" />
-      <workItem from="1778113256618" duration="725000" />
+      <workItem from="1778113256618" duration="2578000" />
     </task>
     <servers />
   </component>

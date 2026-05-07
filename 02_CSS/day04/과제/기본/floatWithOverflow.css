@@ -1,9 +1,0 @@
-.container {
-  overflow: hidden;
-}
-.item {
-  border: 1px solid black;
-  float: left;
-  margin: 0 5px;
-  padding: 10px 20px;
-}
