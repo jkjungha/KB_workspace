@@ -22,7 +22,19 @@
       <change beforePath="$PROJECT_DIR$/07_java/README.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/07_java/java_basic/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/07_java/java_basic/java_basic.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/07_java/java_basic/src/day05/pratice_0420/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/07_java/java_basic/src/day05/practice_0420/Calculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07_java/java_basic/src/day05/pratice_0420/Computer.java" beforeDir="false" afterPath="$PROJECT_DIR$/07_java/java_basic/src/day05/practice_0420/Computer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07_java/java_basic/src/day05/pratice_0420/CoumputerExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/07_java/java_basic/src/day05/practice_0420/CoumputerExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07_java/java_basic/src/day05/pratice_0420/Phone.java" beforeDir="false" afterPath="$PROJECT_DIR$/07_java/java_basic/src/day05/practice_0420/Phone.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07_java/java_basic/src/day05/pratice_0420/SmartPhone.java" beforeDir="false" afterPath="$PROJECT_DIR$/07_java/java_basic/src/day05/practice_0420/SmartPhone.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07_java/java_basic/src/day05/pratice_0420/SmartPhoneExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/07_java/java_basic/src/day05/practice_0420/SmartPhoneExample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/07_java/java_basic/src/java_basic.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/07_java/java_basic/src/pratice_0415/IfElseExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/07_java/java_basic/src/practice_0415/IfElseExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07_java/java_basic/src/pratice_0415/IfElseIfElseExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/07_java/java_basic/src/practice_0415/IfElseIfElseExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07_java/java_basic/src/pratice_0415/MultiplicationTableExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/07_java/java_basic/src/practice_0415/MultiplicationTableExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07_java/java_basic/src/pratice_0415/PrintFrom1To10Example.java" beforeDir="false" afterPath="$PROJECT_DIR$/07_java/java_basic/src/practice_0415/PrintFrom1To10Example.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07_java/java_basic/src/pratice_0415/SumFrom1To100Example.java" beforeDir="false" afterPath="$PROJECT_DIR$/07_java/java_basic/src/practice_0415/SumFrom1To100Example.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07_java/java_basic/src/pratice_0415/SumFrom1To100WhileExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/07_java/java_basic/src/practice_0415/SumFrom1To100WhileExample.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,7 +42,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/07_java" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3,
@@ -58,6 +70,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/04_DOM/day0311" />
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
@@ -82,7 +95,7 @@
       <option name="presentableId" value="Default" />
       <updated>1778079008000</updated>
       <workItem from="1778079009127" duration="1096000" />
-      <workItem from="1778113256618" duration="2578000" />
+      <workItem from="1778113256618" duration="5173000" />
     </task>
     <servers />
   </component>
