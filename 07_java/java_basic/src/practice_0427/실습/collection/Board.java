@@ -11,6 +11,7 @@ public class Board {
     private String writer;
 
     public Board() {
+
     }
 
     public Board(String subject, String content, String writer) {
@@ -18,6 +19,4 @@ public class Board {
         this.content = content;
         this.writer = writer;
     }
-
-
 }

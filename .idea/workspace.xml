@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="7e78dfd6-9f0c-4bce-a2ac-013f3682fccc" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/07_java/java_basic/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07_java/java_basic/src/practice_0506/과제/기본/BufferExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07_java/java_basic/src/practice_0506/과제/기본/CharacterConvertStreamExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07_java/java_basic/src/practice_0506/과제/기본/CopyExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07_java/java_basic/src/practice_0506/과제/기본/ReadExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07_java/java_basic/src/practice_0506/과제/기본/WriteExample.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/07_java/java_basic/src/practice_0506/실습/io/inputstream/ByteArrayInputStream.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/07_java/java_basic/src/practice_0506/실습/io/inputstream/ByteArrayOutputStream.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/07_java/java_basic/src/practice_0506/실습/io/inputstream/ReadEx01.java" afterDir="false" />
@@ -18,10 +27,10 @@
       <change afterPath="$PROJECT_DIR$/07_java/java_basic/src/practice_0506/실습/temp/io/p08/MainTodo.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/07_java/java_basic/src/practice_0506/실습/temp/io/p09/MainTodo.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/07_java/java_basic/src/practice_0506/실습/temp/io/p10/MainTodo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/07_java/README.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/07_java/java_basic/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/07_java/java_basic/java_basic.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/07_java/java_basic/src/day01/section01/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/07_java/java_basic/src/day01/section01/Calculator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/07_java/java_basic/src/day05/pratice_0420/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/07_java/java_basic/src/day05/practice_0420/Calculator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/07_java/java_basic/src/day05/pratice_0420/Computer.java" beforeDir="false" afterPath="$PROJECT_DIR$/07_java/java_basic/src/day05/practice_0420/Computer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/07_java/java_basic/src/day05/pratice_0420/CoumputerExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/07_java/java_basic/src/day05/practice_0420/CoumputerExample.java" afterDir="false" />
@@ -29,6 +38,55 @@
       <change beforePath="$PROJECT_DIR$/07_java/java_basic/src/day05/pratice_0420/SmartPhone.java" beforeDir="false" afterPath="$PROJECT_DIR$/07_java/java_basic/src/day05/practice_0420/SmartPhone.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/07_java/java_basic/src/day05/pratice_0420/SmartPhoneExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/07_java/java_basic/src/day05/practice_0420/SmartPhoneExample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/07_java/java_basic/src/java_basic.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/07_java/java_basic/src/java_pratice_project/practice/ch01_start/Q01_PrintIntro.java" beforeDir="false" afterPath="$PROJECT_DIR$/07_java/java_basic/src/java_practice_project/practice/ch01_start/Q01_PrintIntro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07_java/java_basic/src/java_pratice_project/practice/ch01_start/Q02_PrintProfile.java" beforeDir="false" afterPath="$PROJECT_DIR$/07_java/java_basic/src/java_practice_project/practice/ch01_start/Q02_PrintProfile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07_java/java_basic/src/java_pratice_project/practice/ch02_variables/Q01_DeclareVariables.java" beforeDir="false" afterPath="$PROJECT_DIR$/07_java/java_basic/src/java_practice_project/practice/ch02_variables/Q01_DeclareVariables.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07_java/java_basic/src/java_pratice_project/practice/ch02_variables/Q02_TypeCasting.java" beforeDir="false" afterPath="$PROJECT_DIR$/07_java/java_basic/src/java_practice_project/practice/ch02_variables/Q02_TypeCasting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07_java/java_basic/src/java_pratice_project/practice/ch02_variables/Q03_ScannerInput.java" beforeDir="false" afterPath="$PROJECT_DIR$/07_java/java_basic/src/java_practice_project/practice/ch02_variables/Q03_ScannerInput.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07_java/java_basic/src/java_pratice_project/practice/ch03_operators/Q01_PencilShare.java" beforeDir="false" afterPath="$PROJECT_DIR$/07_java/java_basic/src/java_practice_project/practice/ch03_operators/Q01_PencilShare.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07_java/java_basic/src/java_pratice_project/practice/ch03_operators/Q02_TensCut.java" beforeDir="false" afterPath="$PROJECT_DIR$/07_java/java_basic/src/java_practice_project/practice/ch03_operators/Q02_TensCut.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07_java/java_basic/src/java_pratice_project/practice/ch03_operators/Q03_TrapezoidArea.java" beforeDir="false" afterPath="$PROJECT_DIR$/07_java/java_basic/src/java_practice_project/practice/ch03_operators/Q03_TrapezoidArea.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07_java/java_basic/src/java_pratice_project/practice/ch04_control/Q01_OddEven.java" beforeDir="false" afterPath="$PROJECT_DIR$/07_java/java_basic/src/java_practice_project/practice/ch04_control/Q01_OddEven.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07_java/java_basic/src/java_pratice_project/practice/ch04_control/Q02_GradeSwitch.java" beforeDir="false" afterPath="$PROJECT_DIR$/07_java/java_basic/src/java_practice_project/practice/ch04_control/Q02_GradeSwitch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07_java/java_basic/src/java_pratice_project/practice/ch04_control/Q03_SumMultiplesOf3.java" beforeDir="false" afterPath="$PROJECT_DIR$/07_java/java_basic/src/java_practice_project/practice/ch04_control/Q03_SumMultiplesOf3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07_java/java_basic/src/java_pratice_project/practice/ch04_control/Q04_StarTriangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/07_java/java_basic/src/java_practice_project/practice/ch04_control/Q04_StarTriangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07_java/java_basic/src/java_pratice_project/practice/ch04_control/Q05_MultipleOfThreeSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/07_java/java_basic/src/java_practice_project/practice/ch04_control/Q05_MultipleOfThreeSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07_java/java_basic/src/java_pratice_project/practice/ch04_control/Q06_BankApplicationTodo.java" beforeDir="false" afterPath="$PROJECT_DIR$/07_java/java_basic/src/java_practice_project/practice/ch04_control/Q06_BankApplicationTodo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07_java/java_basic/src/java_pratice_project/practice/ch05_array_reference/Q01_ArrayMax.java" beforeDir="false" afterPath="$PROJECT_DIR$/07_java/java_basic/src/java_practice_project/practice/ch05_array_reference/Q01_ArrayMax.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07_java/java_basic/src/java_pratice_project/practice/ch05_array_reference/Q02_ArraySumAverage.java" beforeDir="false" afterPath="$PROJECT_DIR$/07_java/java_basic/src/java_practice_project/practice/ch05_array_reference/Q02_ArraySumAverage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07_java/java_basic/src/java_pratice_project/practice/ch05_array_reference/Q03_NullCheck.java" beforeDir="false" afterPath="$PROJECT_DIR$/07_java/java_basic/src/java_practice_project/practice/ch05_array_reference/Q03_NullCheck.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07_java/java_basic/src/java_pratice_project/practice/ch05_array_reference/Q4_ArrayMaxTodo.java" beforeDir="false" afterPath="$PROJECT_DIR$/07_java/java_basic/src/java_practice_project/practice/ch05_array_reference/Q4_ArrayMaxTodo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07_java/java_basic/src/java_pratice_project/practice/ch05_array_reference/Q5_Array2DSumAvgTodo.java" beforeDir="false" afterPath="$PROJECT_DIR$/07_java/java_basic/src/java_practice_project/practice/ch05_array_reference/Q5_Array2DSumAvgTodo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07_java/java_basic/src/java_pratice_project/practice/ch05_array_reference/Q6_StudentScoreAnalysisTodo.java" beforeDir="false" afterPath="$PROJECT_DIR$/07_java/java_basic/src/java_practice_project/practice/ch05_array_reference/Q6_StudentScoreAnalysisTodo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07_java/java_basic/src/java_pratice_project/student/ch01_start/Q01_PrintIntro.java" beforeDir="false" afterPath="$PROJECT_DIR$/07_java/java_basic/src/java_practice_project/student/ch01_start/Q01_PrintIntro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07_java/java_basic/src/java_pratice_project/student/ch01_start/Q02_PrintProfile.java" beforeDir="false" afterPath="$PROJECT_DIR$/07_java/java_basic/src/java_practice_project/student/ch01_start/Q02_PrintProfile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07_java/java_basic/src/java_pratice_project/student/ch02_variables/Q01_DeclareVariables.java" beforeDir="false" afterPath="$PROJECT_DIR$/07_java/java_basic/src/java_practice_project/student/ch02_variables/Q01_DeclareVariables.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07_java/java_basic/src/java_pratice_project/student/ch02_variables/Q02_TypeCasting.java" beforeDir="false" afterPath="$PROJECT_DIR$/07_java/java_basic/src/java_practice_project/student/ch02_variables/Q02_TypeCasting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07_java/java_basic/src/java_pratice_project/student/ch02_variables/Q03_ScannerInput.java" beforeDir="false" afterPath="$PROJECT_DIR$/07_java/java_basic/src/java_practice_project/student/ch02_variables/Q03_ScannerInput.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07_java/java_basic/src/java_pratice_project/student/ch03_operators/Q01_PencilShare.java" beforeDir="false" afterPath="$PROJECT_DIR$/07_java/java_basic/src/java_practice_project/student/ch03_operators/Q01_PencilShare.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07_java/java_basic/src/java_pratice_project/student/ch03_operators/Q02_TensCut.java" beforeDir="false" afterPath="$PROJECT_DIR$/07_java/java_basic/src/java_practice_project/student/ch03_operators/Q02_TensCut.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07_java/java_basic/src/java_pratice_project/student/ch03_operators/Q03_TrapezoidArea.java" beforeDir="false" afterPath="$PROJECT_DIR$/07_java/java_basic/src/java_practice_project/student/ch03_operators/Q03_TrapezoidArea.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07_java/java_basic/src/java_pratice_project/student/ch04_control/Q01_OddEven.java" beforeDir="false" afterPath="$PROJECT_DIR$/07_java/java_basic/src/java_practice_project/student/ch04_control/Q01_OddEven.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07_java/java_basic/src/java_pratice_project/student/ch04_control/Q02_GradeSwitch.java" beforeDir="false" afterPath="$PROJECT_DIR$/07_java/java_basic/src/java_practice_project/student/ch04_control/Q02_GradeSwitch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07_java/java_basic/src/java_pratice_project/student/ch04_control/Q03_SumMultiplesOf3.java" beforeDir="false" afterPath="$PROJECT_DIR$/07_java/java_basic/src/java_practice_project/student/ch04_control/Q03_SumMultiplesOf3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07_java/java_basic/src/java_pratice_project/student/ch04_control/Q04_StarTriangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/07_java/java_basic/src/java_practice_project/student/ch04_control/Q04_StarTriangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07_java/java_basic/src/java_pratice_project/student/ch04_control/Q05_MultipleOfThreeSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/07_java/java_basic/src/java_practice_project/student/ch04_control/Q05_MultipleOfThreeSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07_java/java_basic/src/java_pratice_project/student/ch04_control/Q06_BankApplicationTodo.java" beforeDir="false" afterPath="$PROJECT_DIR$/07_java/java_basic/src/java_practice_project/student/ch04_control/Q06_BankApplicationTodo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07_java/java_basic/src/java_pratice_project/student/ch04_control/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/07_java/java_basic/src/java_practice_project/student/ch04_control/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07_java/java_basic/src/java_pratice_project/student/ch05_array_reference/Q01_ArrayMax.java" beforeDir="false" afterPath="$PROJECT_DIR$/07_java/java_basic/src/java_practice_project/student/ch05_array_reference/Q01_ArrayMax.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07_java/java_basic/src/java_pratice_project/student/ch05_array_reference/Q02_ArraySumAverage.java" beforeDir="false" afterPath="$PROJECT_DIR$/07_java/java_basic/src/java_practice_project/student/ch05_array_reference/Q02_ArraySumAverage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07_java/java_basic/src/java_pratice_project/student/ch05_array_reference/Q03_NullCheck.java" beforeDir="false" afterPath="$PROJECT_DIR$/07_java/java_basic/src/java_practice_project/student/ch05_array_reference/Q03_NullCheck.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07_java/java_basic/src/java_pratice_project/student/ch05_array_reference/Q4_ArrayMaxTodo.java" beforeDir="false" afterPath="$PROJECT_DIR$/07_java/java_basic/src/java_practice_project/student/ch05_array_reference/Q4_ArrayMaxTodo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07_java/java_basic/src/java_pratice_project/student/ch05_array_reference/Q5_Array2DSumAvgTodo.java" beforeDir="false" afterPath="$PROJECT_DIR$/07_java/java_basic/src/java_practice_project/student/ch05_array_reference/Q5_Array2DSumAvgTodo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07_java/java_basic/src/java_pratice_project/student/ch05_array_reference/Q6_StudentScoreAnalysisTodo.java" beforeDir="false" afterPath="$PROJECT_DIR$/07_java/java_basic/src/java_practice_project/student/ch05_array_reference/Q6_StudentScoreAnalysisTodo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07_java/java_basic/src/java_pratice_project/student/ch05_array_reference/ch04_control/Q01_OddEven.java" beforeDir="false" afterPath="$PROJECT_DIR$/07_java/java_basic/src/java_practice_project/student/ch05_array_reference/ch04_control/Q01_OddEven.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07_java/java_basic/src/java_pratice_project/student/ch05_array_reference/ch04_control/Q02_GradeSwitch.java" beforeDir="false" afterPath="$PROJECT_DIR$/07_java/java_basic/src/java_practice_project/student/ch05_array_reference/ch04_control/Q02_GradeSwitch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07_java/java_basic/src/java_pratice_project/student/ch05_array_reference/ch04_control/Q03_SumMultiplesOf3.java" beforeDir="false" afterPath="$PROJECT_DIR$/07_java/java_basic/src/java_practice_project/student/ch05_array_reference/ch04_control/Q03_SumMultiplesOf3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07_java/java_basic/src/java_pratice_project/student/ch05_array_reference/ch04_control/Q04_StarTriangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/07_java/java_basic/src/java_practice_project/student/ch05_array_reference/ch04_control/Q04_StarTriangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07_java/java_basic/src/java_pratice_project/student/ch05_array_reference/ch04_control/Q05_MultipleOfThreeSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/07_java/java_basic/src/java_practice_project/student/ch05_array_reference/ch04_control/Q05_MultipleOfThreeSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07_java/java_basic/src/java_pratice_project/student/ch05_array_reference/ch04_control/Q06_BankApplicationTodo.java" beforeDir="false" afterPath="$PROJECT_DIR$/07_java/java_basic/src/java_practice_project/student/ch05_array_reference/ch04_control/Q06_BankApplicationTodo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07_java/java_basic/src/java_pratice_project/student/ch05_array_reference/ch04_control/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/07_java/java_basic/src/java_practice_project/student/ch05_array_reference/ch04_control/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07_java/java_basic/src/practice_0427/실습/collection/Board.java" beforeDir="false" afterPath="$PROJECT_DIR$/07_java/java_basic/src/practice_0427/실습/collection/Board.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/07_java/java_basic/src/pratice_0415/IfElseExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/07_java/java_basic/src/practice_0415/IfElseExample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/07_java/java_basic/src/pratice_0415/IfElseIfElseExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/07_java/java_basic/src/practice_0415/IfElseIfElseExample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/07_java/java_basic/src/pratice_0415/MultiplicationTableExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/07_java/java_basic/src/practice_0415/MultiplicationTableExample.java" afterDir="false" />
@@ -41,9 +99,50 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$/07_java/java_basic">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="java_basic" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/07_java" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "jkjungha"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/jkjungha/KB_workspace_JAVA.git",
+    "accountId": "c9f2c957-b97a-496e-93db-224bdf33cba7"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3,
   &quot;fromUser&quot;: false
@@ -56,6 +155,11 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.ByteArrayInputStream.executor": "Run",
+    "Application.WriteExample.executor": "Run",
+    "Gradle.java_basic [:practice_0506.과제.기본.CharacterConvertStreamExample.main()].executor": "Run",
+    "Gradle.java_basic [:practice_0506.과제.기본.CopyExample.main()].executor": "Run",
+    "Gradle.java_basic [:practice_0506.과제.기본.ReadExample.main()].executor": "Run",
+    "Gradle.java_basic [:practice_0506.과제.기본.WriteExample.main()].executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
@@ -64,11 +168,20 @@
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "/Users/junghakim/Desktop/Clone_KB_Workspace/KB_workspace",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "reference.settingsdialog.project.gradle",
+    "settings.editor.splitter.proportion": "0.25280327",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/07_java/java_basic/src/practice_0506/과제/기본" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/04_DOM/day0311" />
       <recent name="$PROJECT_DIR$" />
@@ -96,6 +209,11 @@
       <updated>1778079008000</updated>
       <workItem from="1778079009127" duration="1096000" />
       <workItem from="1778113256618" duration="5173000" />
+      <workItem from="1778203175877" duration="3029000" />
+      <workItem from="1778207467817" duration="198000" />
+      <workItem from="1778220620038" duration="83000" />
+      <workItem from="1778220894690" duration="1314000" />
+      <workItem from="1778222232056" duration="7371000" />
     </task>
     <servers />
   </component>
