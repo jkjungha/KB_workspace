@@ -27,6 +27,7 @@
       <change afterPath="$PROJECT_DIR$/07_java/java_basic/src/practice_0506/실습/temp/io/p08/MainTodo.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/07_java/java_basic/src/practice_0506/실습/temp/io/p09/MainTodo.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/07_java/java_basic/src/practice_0506/실습/temp/io/p10/MainTodo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/07_java/README.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/07_java/java_basic/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/07_java/java_basic/java_basic.iml" beforeDir="false" />
@@ -131,18 +132,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/07_java" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "jkjungha"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;jkjungha&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/jkjungha/KB_workspace_JAVA.git",
-    "accountId": "c9f2c957-b97a-496e-93db-224bdf33cba7"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/jkjungha/KB_workspace_JAVA.git&quot;,
+    &quot;accountId&quot;: &quot;c9f2c957-b97a-496e-93db-224bdf33cba7&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3,
   &quot;fromUser&quot;: false
@@ -156,6 +157,8 @@
   "keyToString": {
     "Application.ByteArrayInputStream.executor": "Run",
     "Application.WriteExample.executor": "Run",
+    "Gradle.Upgrade Gradle wrapper.executor": "Run",
+    "Gradle.java_basic [:practice_0506.과제.기본.BufferExample.main()].executor": "Run",
     "Gradle.java_basic [:practice_0506.과제.기본.CharacterConvertStreamExample.main()].executor": "Run",
     "Gradle.java_basic [:practice_0506.과제.기본.CopyExample.main()].executor": "Run",
     "Gradle.java_basic [:practice_0506.과제.기본.ReadExample.main()].executor": "Run",
@@ -214,6 +217,8 @@
       <workItem from="1778220620038" duration="83000" />
       <workItem from="1778220894690" duration="1314000" />
       <workItem from="1778222232056" duration="7371000" />
+      <workItem from="1778335823642" duration="1102000" />
+      <workItem from="1778502895711" duration="1745000" />
     </task>
     <servers />
   </component>
