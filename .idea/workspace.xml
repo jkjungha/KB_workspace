@@ -13,6 +13,9 @@
       <change afterPath="$PROJECT_DIR$/07_java/java_basic/src/practice_0506/과제/기본/ReadExample.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/07_java/java_basic/src/practice_0506/과제/기본/ReadLineExample.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/07_java/java_basic/src/practice_0506/과제/기본/WriteExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07_java/java_basic/src/practice_0506/과제/심화/Member.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07_java/java_basic/src/practice_0506/과제/심화/ObjectOutputStreamExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07_java/java_basic/src/practice_0506/과제/심화/Product.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/07_java/java_basic/src/practice_0506/실습/io/inputstream/ByteArrayInputStream.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/07_java/java_basic/src/practice_0506/실습/io/inputstream/ByteArrayOutputStream.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/07_java/java_basic/src/practice_0506/실습/io/inputstream/ReadEx01.java" afterDir="false" />
@@ -167,6 +170,7 @@
     "Gradle.java_basic [:practice_0506.과제.기본.ReadExample.main()].executor": "Run",
     "Gradle.java_basic [:practice_0506.과제.기본.ReadLineExample.main()].executor": "Run",
     "Gradle.java_basic [:practice_0506.과제.기본.WriteExample.main()].executor": "Run",
+    "Gradle.java_basic [:practice_0506.과제.심화.ObjectOutputStreamExample.main()].executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
@@ -224,7 +228,8 @@
       <workItem from="1778222232056" duration="7371000" />
       <workItem from="1778335823642" duration="1102000" />
       <workItem from="1778502895711" duration="1882000" />
-      <workItem from="1778574065803" duration="2423000" />
+      <workItem from="1778574065803" duration="2864000" />
+      <workItem from="1778672277428" duration="1664000" />
     </task>
     <servers />
   </component>
