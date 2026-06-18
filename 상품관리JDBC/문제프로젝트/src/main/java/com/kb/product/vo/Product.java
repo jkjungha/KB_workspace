@@ -4,7 +4,12 @@ import lombok.*;
 import java.time.LocalDate;
 
 /** product 테이블의 한 행을 표현하는 VO 클래스입니다. */
-@Getter @Setter @NoArgsConstructor @AllArgsConstructor @Builder @ToString
+@Getter
+@Setter
+@NoArgsConstructor
+@AllArgsConstructor
+@Builder
+@ToString
 public class Product {
     private int productId;        // 상품 번호, PK
     private String productName;   // 상품명

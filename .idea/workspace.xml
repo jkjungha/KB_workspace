@@ -32,7 +32,6 @@
       <change afterPath="$PROJECT_DIR$/07_java/java_basic/src/practice_0506/실습/temp/io/p08/MainTodo.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/07_java/java_basic/src/practice_0506/실습/temp/io/p09/MainTodo.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/07_java/java_basic/src/practice_0506/실습/temp/io/p10/MainTodo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/07_java/README.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/07_java/java_basic/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/07_java/java_basic/java_basic.iml" beforeDir="false" />
@@ -192,6 +191,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/07_java/java_basic/src/practice_0506/과제/기본" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -233,6 +233,7 @@
       <workItem from="1779716283629" duration="520000" />
       <workItem from="1779754944965" duration="824000" />
       <workItem from="1780671340121" duration="748000" />
+      <workItem from="1780921168100" duration="270000" />
     </task>
     <servers />
   </component>
